@@ -1,4 +1,3 @@
-# imd-for-class
 
 ## flutter 简介
 Flutter是Google的UI工具包，可通过单个代码库为移动，网络和台式机构建漂亮的，本机编译的应用程序
